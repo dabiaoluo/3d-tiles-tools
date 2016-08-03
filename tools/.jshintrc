@@ -15,7 +15,7 @@
   "plusplus": false,
   "quotmark": false,
   "undef": true,
-  "unused": "strict",
+  "unused": false,
   "strict": true,
   "asi": false,
   "boss": false,

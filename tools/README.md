@@ -18,3 +18,11 @@ Detects whether the tileset is compressed or not and does the opposite.
 ```
 node ./bin/gzipTileset.js -i ./specs/data/TilesetOfTilesets/ -o ./output/TilesetOfTilesets-gzipped/
 ```
+
+### combineTileset
+
+Combines all external tilesets into a single tileset.json file.
+
+```
+node ./bin/combineTileset.js -i ./specs/data/TilesetOfTilesets/ -o ./output/TilesetOfTilesets-combined/
+```

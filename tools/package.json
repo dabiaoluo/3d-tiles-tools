@@ -48,6 +48,7 @@
     "update-ts-definitions": "gulp update-ts-definitions"
   },
   "bin": {
-    "gzipTileset": "./bin/gzipTileset.js"
+    "gzipTileset": "./bin/gzipTileset.js",
+    "combineTileset" : "./bin/combineTileset.js"
   }
 }
